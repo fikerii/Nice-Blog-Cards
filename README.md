@@ -1,7 +1,7 @@
 # Nice-Blog-Cards
 
 HTML
-<div class="card-container">  
+<!-- <div class="card-container">  
   <div class="card card-1">  
    <div class="card-img"></div>  
    <a href="" class="card-link">  
@@ -58,7 +58,7 @@ HTML
     <div class="card-creator">by <a href="">Gregoy Trem</a></div>  
    </div>  
   </div>  
- </div>  
+ </div>   -->
  
  CSS
  /* RESET */  
